@@ -1,0 +1,27 @@
+{
+  "name": "shuttle",
+  "version": "0.0.0",
+  "description": "Frontend middleware",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bamieh/shuttle.git"
+  },
+  "keywords": [
+    "middleware",
+    "frontend"
+  ],
+  "author": "Ahmad Bamieh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bamieh/shuttle/issues"
+  },
+  "preferGlobal": "true",
+  "homepage": "https://github.com/Bamieh/shuttle#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
