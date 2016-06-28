@@ -1,6 +1,6 @@
 {
   "name": "shuttle",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Frontend middleware",
   "main": "./lib/index.js",
   "scripts": {
